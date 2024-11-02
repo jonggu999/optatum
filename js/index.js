@@ -27,7 +27,7 @@ $(document).ready(function (){
         $("header, .top_button").removeClass("active");
       };
 
-      if(pos>750){//mebership
+      if(pos>950){//mebership
         $(".cst5").addClass("actb5");
         $(".cst5 h3").css({"color":"#BFBDBA"});
       }else{
